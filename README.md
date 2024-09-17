@@ -1,6 +1,6 @@
 # JavaScript Array Methods Cheat Sheet
-
-
+<code>Nothing special</code>
+Just a small little Cheat Sheet for Array Methods in JavaScript for the ones who need it.
 ## 1. forEach()
 **Description:** Executes a function for each element in the array.
 ```js
