@@ -1,7 +1,7 @@
 # JavaScript Array Methods Cheat Sheet
 
 
- 1. forEach()
+## 1. forEach()
 Description: Executes a function for each element in the array.
 ```js
 const arr = [1, 2, 3];
