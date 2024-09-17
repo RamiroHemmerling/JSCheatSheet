@@ -2,7 +2,7 @@
 
 
 ## 1. forEach()
-Description: Executes a function for each element in the array.
+*Description:* Executes a function for each element in the array.
 ```js
 const arr = [1, 2, 3];
 arr.forEach(num => console.log(num));
